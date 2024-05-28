@@ -1,0 +1,11 @@
+﻿state,account length,area code,phone number,international plan,voice mail plan,number vmail messages,total day minutes,total day calls,Predicted total day calls,total day charge,total eve minutes,total eve calls,total eve charge,total night minutes,total night calls,total night charge,total intl minutes,total intl calls,total intl charge,customer service calls,churn
+TX,256,408,392-5847,yes,no,0,345.5,123,110,58.74,167.8,95,14.26,210.3,80,9.46,13,5,3.51,2,FALSE
+NY,32,415,283-7485,no,yes,12,234.1,92,95,39.8,189.6,102,16.12,198.7,97,8.94,8,2,2.16,0,TRUE
+CA,190,510,874-6592,no,yes,27,298.7,145,140,50.78,210.2,110,17.87,230.1,105,10.35,14,3,3.78,3,FALSE
+FL,78,408,293-8492,yes,no,0,185.2,78,80,31.48,202.3,98,17.2,205.4,89,9.24,12,4,3.24,1,TRUE
+WA,215,510,748-3948,no,yes,9,305.6,112,115,51.95,175.5,85,14.92,188.3,93,8.47,7,1,1.89,0,FALSE
+IL,59,415,485-7293,yes,no,0,189.3,69,75,32.18,190.4,83,16.18,207.5,92,9.34,11,3,2.97,1,TRUE
+GA,140,408,675-2948,no,yes,30,320.8,130,125,54.54,201.2,104,17.1,220.9,97,9.94,10,2,2.7,3,FALSE
+AZ,47,415,394-5820,no,yes,15,218.5,85,90,37.15,160.7,76,13.65,177.9,81,8.01,9,2,2.43,0,TRUE
+CO,173,510,583-9485,yes,no,0,286.7,120,115,48.74,193.8,103,16.47,240.2,112,10.81,13,3,3.51,2,FALSE
+MA,210,408,293-4756,no,yes,20,312.4,140,130,53.11,207.3,115,17.62,215.5,100,9.7,11,2,2.97,0,TRUE
